@@ -1,0 +1,3 @@
+| ID                                                                                              | DESCRIPTION                                  | Severity |
+| ----------------------------------------------------------------------------------------------- | -------------------------------------------- | -------- |
+| [TF_TENCENTCLOUD_01](https://github.com/tencentcloudstack/opa-policies/wiki/TF_TENCENTCLOUD_01) | cvm data_disks.delete_with_instance is false | DENY     |
